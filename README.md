@@ -10,7 +10,7 @@
   </h1>
   <sup>
     <br />
-   A Python 3 basic template.</em>
+   A Python 3 basic template</em>
     <br />
     <br /
 
