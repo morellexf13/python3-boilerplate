@@ -10,11 +10,11 @@
   </h1>
   <sup>
     <br />
-   A Python 3 basic template</em>
+   A Python 3 basic template.</em>
     <br />
     <br /
 
-   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/boilersnake/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/boilersnake/blob/main/LICENSE)
 
   </sup>
 </div>
@@ -25,7 +25,7 @@
 
 Python 3
 
-PyCharm*
+PyCharm\*
 
 <br>
 
@@ -33,9 +33,10 @@ PyCharm*
 
 Install requirements
 
-`pip3 install -r requirements.txt`
+```
+pip3 install -r requirements.txt
+```
 
 Execute
 
 Press the ▶️ icon
-
