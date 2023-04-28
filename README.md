@@ -14,7 +14,7 @@
     <br />
     <br /
 
-[![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/boilersnake/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/boilersnake/blob/main/LICENSE)
 
   </sup>
 </div>

@@ -2,7 +2,7 @@
 Module Docstring
 """
 
-__author__ = "morellexf26"
+__author__ = "morellexf13"
 __version__ = "0.1.0"
 __license__ = "MIT"
 
