@@ -1,2 +1,2 @@
-pytest>=3.0.7
+pytest>=7.3.2
 logzero  # see github.com/metachris/logzero
