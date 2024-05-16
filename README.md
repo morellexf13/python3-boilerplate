@@ -4,7 +4,7 @@
     🐍
     <br />
     <br />
-    Boilersnake
+    Python 3 Boilerplate
     <br />
     <br />
   </h1>
